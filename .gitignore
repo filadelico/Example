@@ -7,6 +7,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Multimedia
+*.jpg
+*.JPG
+*.jpeg
+*.mp4
+*.mkv
+*.avi
+multimedia/
+
 # Distribution / packaging
 .Python
 build/
